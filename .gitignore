@@ -3,3 +3,9 @@ chapter2/10-armed.p
 chapter3/.ipynb_checkpoints/chapter3_yoonforh-checkpoint.ipynb
 chapter4/.ipynb_checkpoints/chapter4_yoonforh-checkpoint.ipynb
 chapter3/.ipynb_checkpoints/chapter3_yoonforh-checkpoint.ipynb
+
+.ipynb_checkpoints
+__pycache__
+
+*.log
+*.bak
