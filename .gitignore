@@ -5,6 +5,7 @@ chapter4/.ipynb_checkpoints/chapter4_yoonforh-checkpoint.ipynb
 chapter3/.ipynb_checkpoints/chapter3_yoonforh-checkpoint.ipynb
 
 .ipynb_checkpoints
+.ipynb_checkpoints/*
 __pycache__
 
 *.log
